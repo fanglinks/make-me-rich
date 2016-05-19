@@ -5,6 +5,8 @@
 </template>
 
 <script>
+require('assets/css/normalize.css')
+require('assets/css/base.css')
 export default {
   name: 'App'
 }

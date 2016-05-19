@@ -14,7 +14,7 @@ Object.keys(NumberFilter).forEach(function (k) {
 
 // routing setting
 const router = new Router({
-  history: true,
+  history: false,
   saveScrollPosition: true
 })
 routerSetting(router)
