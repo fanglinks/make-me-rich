@@ -34,10 +34,10 @@
     color: #6B6666;
   }
   .home .c1 {
-    background-image: url('http://yangjian.qiniudn.com/FnTFCU40ODyuUH3dQgH4S0O2OI-n');
+    background-image: url('https://ol1unnb9h.qnssl.com/FqVazVQfpYp5jurVrTBgG5H1hrLJ');
   }
   .home .c2 {
-    background-image: url('http://yangjian.qiniudn.com/Fi8feeCM30XDVok5hDWHHzHAGpuO');
+    background-image: url('https://ol1unnb9h.qnssl.com/Fi8feeCM30XDVok5hDWHHzHAGpuO');
   }
   .home .c1 .text { 
     right: 10px;
@@ -56,7 +56,7 @@
   <section class="home center">
     <div>
       <h1 class="title">请选择一种计算方式</h1>
-      <img src="http://yangjian.qiniudn.com/Fp8IV-GrHuCOzJ-N3cYvQtUbfB6I" class="wx-share">
+      <img src="https://ol1unnb9h.qnssl.com/Fp8IV-GrHuCOzJ-N3cYvQtUbfB6I" class="wx-share">
       <nav>
         <a v-link="{path: '/rich'}" class="card c1">
           <div class="text">
