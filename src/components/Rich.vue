@@ -51,7 +51,7 @@
 <template>
   <section class="rich center">
     <div class="container">
-      <img src="http://yangjian.qiniudn.com/FiQgI98h3Wbut0nW_iuP5YQUybw_" class="avatar">
+      <img src="https://ol1unnb9h.qnssl.com/FiQgI98h3Wbut0nW_iuP5YQUybw_" class="avatar">
       <h2 class="rich-title">看看你能挣多少钱</h2>
       <section class="form-section">
         <span class="key">我有：</span>

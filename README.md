@@ -2,10 +2,14 @@
 
 理财计算器
 
-(在线地址)[https://yangjian.me/make-me-rich/]
+(在线地址)[https://a-limon.github.io/make-me-rich/]
 
 ![Qrcode](http://yangjian.qiniudn.com/Fvocgs-L_wh69NlfibKz6Qpo7B4n?imageView/1/w/300)
 ![view](http://yangjian.qiniudn.com/Fm2cQg2bc0oEFvGZt8NFgns6ktU8?imageView/2/w/300)
+
+Note: Just for fun.
+
+Vue.js version in this project is out of date.
 
 ## Build Setup
 

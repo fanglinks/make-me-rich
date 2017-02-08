@@ -34,7 +34,7 @@
     color: #6B6666;
   }
   .home .c1 {
-    background-image: url('https://ol1unnb9h.qnssl.com/FqVazVQfpYp5jurVrTBgG5H1hrLJ');
+    background-image: url('https://ol1unnb9h.qnssl.com/FnTFCU40ODyuUH3dQgH4S0O2OI-n');
   }
   .home .c2 {
     background-image: url('https://ol1unnb9h.qnssl.com/Fi8feeCM30XDVok5hDWHHzHAGpuO');

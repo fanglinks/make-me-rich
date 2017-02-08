@@ -51,7 +51,7 @@
 <template>
   <section class="dream center">
     <div class="container">
-      <img src="http://yangjian.qiniudn.com/FgK42tvCdYx27lzp74c_puktkrEu" class="avatar">
+      <img src="https://ol1unnb9h.qnssl.com/FgK42tvCdYx27lzp74c_puktkrEu" class="avatar">
       <h2 class="dream-title">你想每月收到多少利息</h2>
       <section class="form-section">
         <span class="key">每月我要：</span>
